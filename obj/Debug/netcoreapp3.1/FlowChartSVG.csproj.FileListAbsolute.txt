@@ -1,0 +1,276 @@
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\FlowChartSVG.exe
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\FlowChartSVG.deps.json
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\FlowChartSVG.runtimeconfig.json
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\FlowChartSVG.runtimeconfig.dev.json
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\FlowChartSVG.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\FlowChartSVG.pdb
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.csproj.AssemblyReference.cache
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.AssemblyInfoInputs.cache
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.AssemblyInfo.cs
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.csproj.CoreCompileInputs.cache
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.pdb
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.genruntimeconfig.cache
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.csproj.CopyComplete
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\ExCSS.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Fizzler.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Svg.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcairo.2.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libfontconfig.1.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libfreetype.6.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgdiplus.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgif.7.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglib-2.0.0.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libintl.8.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libjpeg.9.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpcre.1.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpixman-1.0.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpng16.16.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libtiff.5.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Speech.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Web.Services.Description.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\cs\System.Private.ServiceModel.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\de\System.Private.ServiceModel.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\es\System.Private.ServiceModel.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\fr\System.Private.ServiceModel.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\it\System.Private.ServiceModel.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\ja\System.Private.ServiceModel.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\ko\System.Private.ServiceModel.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\pl\System.Private.ServiceModel.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\pt-BR\System.Private.ServiceModel.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\ru\System.Private.ServiceModel.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\tr\System.Private.ServiceModel.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\zh-Hans\System.Private.ServiceModel.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\zh-Hant\System.Private.ServiceModel.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\cs\System.Web.Services.Description.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\de\System.Web.Services.Description.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\es\System.Web.Services.Description.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\fr\System.Web.Services.Description.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\it\System.Web.Services.Description.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\ja\System.Web.Services.Description.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\ko\System.Web.Services.Description.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\pl\System.Web.Services.Description.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\pt-BR\System.Web.Services.Description.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\ru\System.Web.Services.Description.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\tr\System.Web.Services.Description.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\zh-Hans\System.Web.Services.Description.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\zh-Hant\System.Web.Services.Description.resources.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Documents\Actual Documents\006 Projects\FlowChartSVG\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\FlowChartSVG.exe
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\FlowChartSVG.deps.json
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\FlowChartSVG.runtimeconfig.json
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\FlowChartSVG.runtimeconfig.dev.json
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\FlowChartSVG.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\FlowChartSVG.pdb
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\ExCSS.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Fizzler.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\Svg.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Speech.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\System.Web.Services.Description.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\cs\System.Private.ServiceModel.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\de\System.Private.ServiceModel.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\es\System.Private.ServiceModel.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\fr\System.Private.ServiceModel.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\it\System.Private.ServiceModel.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\ja\System.Private.ServiceModel.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\ko\System.Private.ServiceModel.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\pl\System.Private.ServiceModel.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\ru\System.Private.ServiceModel.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\tr\System.Private.ServiceModel.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\cs\System.Web.Services.Description.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\de\System.Web.Services.Description.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\es\System.Web.Services.Description.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\fr\System.Web.Services.Description.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\it\System.Web.Services.Description.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\ja\System.Web.Services.Description.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\ko\System.Web.Services.Description.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\pl\System.Web.Services.Description.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\ru\System.Web.Services.Description.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\tr\System.Web.Services.Description.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcairo.2.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libfontconfig.1.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libfreetype.6.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgdiplus.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgif.7.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglib-2.0.0.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libintl.8.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libjpeg.9.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpcre.1.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpixman-1.0.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpng16.16.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libtiff.5.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.csproj.AssemblyReference.cache
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.AssemblyInfoInputs.cache
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.AssemblyInfo.cs
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.csproj.CoreCompileInputs.cache
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.csproj.CopyComplete
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.dll
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.pdb
+C:\Users\mazil\RiderProjects\FlowChartGenerator\FlowChartSVG\obj\Debug\netcoreapp3.1\FlowChartSVG.genruntimeconfig.cache
